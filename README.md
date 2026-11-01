@@ -1,4 +1,4 @@
-# Security Protocols ()
+# security-protocols
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,15 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-A set of rules and standards that define how data is transmitted securely over networks, including protocols like SSL/TLS, HTTPS, SSH, and IPsec that provide encryption, authentication, and data integrity. It plays a critical role in protecting organizational assets and maintaining a strong security posture.
+## security-protocols on APIs.io
 
-**URL:** [Visit APIs.json URL](https://en.wikipedia.org/wiki/Security_protocol)
+Everything profiled for security-protocols is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/security-protocols/](https://apis.io/providers/security-protocols/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+## API Evangelist rating
 
- - Security, Networking, Encryption, Authentication
+Not yet rated. See [apis.io/providers/security-protocols/](https://apis.io/providers/security-protocols/).
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2025 
-- **Modified:** 2025 
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for security-protocols: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/security-protocols/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
